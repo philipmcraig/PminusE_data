@@ -1,0 +1,53 @@
+Standard deviations of seasonal means (inter-annual variability) of E-P from ERA-Interim for the Atlantic (35S-60N), Pacific (30S-BS) and Indian (>35S) Oceans. E-P is from the moisture budget. Also presented are standard deviations for various latitude bands within each basin.
+
+Atlantic E-P (35S-60N) seasonal standard deviations:
+DJF   MAM   JJA   SON
+0.084   0.096   0.097   0.069
+
+Pacific E-P (30S-BS) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.109   0.115   0.192   0.106
+
+Indian E-P (>35S) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.100   0.090   0.092   0.079
+
+Atlantic E-P (45N-60N) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.016   0.016   0.012   0.016
+
+Atlantic E-P (24N-45N) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.049   0.043   0.028   0.036
+
+Atlantic E-P (16S-24N) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.049   0.043   0.028   0.036
+
+Atlantic E-P (35S-16S) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.032   0.026   0.035   0.041
+
+Pacific E-P (47N-BS) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.019   0.016   0.017   0.017
+
+Pacific E-P (24N-47N) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.057   0.059   0.053   0.044
+
+Pacific E-P (30S-24N) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.094   0.107   0.186   0.110
+
+Indian E-P (>8S) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.072   0.080   0.083   0.069
+
+Indian E-P (20S-8S) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.084   0.070   0.037   0.048
+
+Indian E-P (35S-20S) seasonal standard deviations: 
+DJF   MAM   JJA   SON
+0.041   0.045   0.032   0.034

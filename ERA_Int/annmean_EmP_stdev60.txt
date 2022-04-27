@@ -1,0 +1,19 @@
+Standard deviations of annual mean E-P for the Atlantic (35S-45N), Pacific (30S-47N) and Indian (>35S) Oceans. Calculated from the E-P for each yearin the ERA-Interim reanalysis (1979-2014). These standard deviations represent the interannual variability of E-P for the reanalysis period. Also presented are standard deviations for various latitude bands within each ocean. 
+
+Atlantic (35S-60N) Ocean: 0.063
+
+Pacific (30S-BS) Ocean: 0.083
+
+Indian (>35S) Ocean: 0.039
+
+Atlantic bands: 
+45N-60N     24N-45N     16S-24N     35S-16S
+0.011   0.025   0.062   0.022
+
+Pacific bands: 
+47N-BS    24N-47N   17S-24N   30S-17S 
+0.012   0.024   0.083   0.052
+
+Indian bands: 
+>8S    20S-8S  35S-20S
+0.038   0.036   0.019

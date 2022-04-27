@@ -1,0 +1,38 @@
+Standard deviations of monthly means (intra-annual variability) of E-P and E-P-R for the Atlantic (35S-60N), Pacific (30S- Bering Strait) and Indian (>35S) Oceans. E-P is from ERA-Interim vertically integrated moisture flux divergence and runoff is from the Dai & Trenberth (2002) dataset. Also presented are  standard deviations for various latitude bands within each basin.
+
+Atlantic E-P (35S-45N) standard deviation =0.168
+
+Pacific E-P (30S-BS) standard deviation = 0.184
+
+Indian E-P (>35S) standard deviation = 0.218
+
+Atlantic E-P bands: 
+45N-60N     24N-45N    16S-24N      35S-16S
+0.014      0.077      0.165      0.055
+
+Pacific E-P bands: 
+47N-BS     24N-47N      30S-24N
+0.031      0.204      0.083
+
+Indian E-P bands: 
+>8S    20S-8S    35S-20S
+0.185   0.246   0.077
+
+
+Atlantic E-P-R (35S-60N) standard deviation = 0.213
+
+Pacific E-P-R (30S-BS) standard deviation = 0.244
+
+Indian E-P-R (>35S) standard deviation = 0.185
+
+Atlantic E-P-R bands: 
+45N-60N     24N-45N    16S-24N      35S-16S
+0.030      0.088      0.198      0.052
+
+Pacific E-P-R bands: 
+47N-BS     24N-47N    30S-24N
+0.074      0.219      0.085
+
+Indian E-P-R bands: 
+>8S    20S-8S    35S-20S
+0.226   0.271   0.092

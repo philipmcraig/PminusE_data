@@ -1,0 +1,3 @@
+Standard deviations of monthly means (inter-annual variability) of E-P from ERA-Interim for the Atlantic (35S-60N), Pacific (30S-BS) and Indian (>35S) Oceans. E-P is from the moisture budget. Also presented are standard deviations for various latitude bands within each basin.
+
+Atlantic E-P (35S-60N) monthly standard deviations:

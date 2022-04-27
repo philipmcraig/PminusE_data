@@ -1,0 +1,31 @@
+Results from ERA-Interim vertically integrated moisture flux divergence and Dai & Trenberth (2002) continental discharge. Presented here are net E-P-R for ocean basins and latitude bands, and net E-P for ocean basins and latitude bands. 
+
+Net E-P-R for ocean basins (Sv): 
+Atlantic (35S-60N)  Pacific (30S-BS)   Indian (>35S) 
+0.458   -0.070   0.524
+ 
+Net E-P-R for latitude bands (Sv): 
+ 
+Atlantic: 45N-60N     24N-45N     16S-24N     35S-16S 
+-0.176   0.229   0.106   0.292
+
+Pacific: 47N-BS    24N-47N     17S-24N     30S-17S 
+-0.249   0.040   -0.368   0.482
+
+Indian: >8S    20S-8S  35S-20S 
+-0.179  0.208  0.468
+ 
+Net E-P for ocean basins (Sv): 
+Atlantic (35S-60N)  Pacific (30S-47N)   Indian (>35S) 
+1.054   0.206   0.667
+
+Net E-P for latitude bands (Sv): 
+ 
+Atlantic: 45N-60N      24N-45N     16S-24N     35S-16S 
+-0.089   0.275   0.531   0.335
+
+Pacific: 47N-BS   24N-47N   17S-24N     30S-17S 
+-0.168   0.117   -0.242   0.484
+
+Indian: >8S    20S-8S  35S-20S 
+-0.078 0.243 0.489

@@ -1,0 +1,45 @@
+Standard deviations of monthly means (inter-annual variability) of E-P from ERA-Interim for the Atlantic (35S-45N), Pacific (30S-47N) and Indian (>35S) Oceans. E-P is from the moisture budget. Also presented are standard deviations for various latitude bands within each basin.
+
+Atlantic E-P (35S-45N) monthly standard deviations:
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.126   0.108   0.127   0.107   0.120   0.135   0.090   0.130   0.121   0.088   0.101   0.111
+
+Pacific E-P (30S-47N) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.159   0.182   0.186   0.148   0.198   0.173   0.233   0.299   0.209   0.203   0.158   0.179
+
+Indian E-P (>35S) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.160   0.163   0.141   0.120   0.154   0.135   0.123   0.138   0.115   0.148   0.146   0.175
+
+Atlantic E-P (24N-45N) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.066   0.073   0.076   0.066   0.055   0.056   0.034   0.043   0.054   0.064   0.046   0.062
+
+Atlantic E-P (16S-24N) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.080   0.084   0.091   0.097   0.107   0.122   0.102   0.110   0.101   0.093   0.095   0.101
+
+Atlantic E-P (35S-16S) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.052   0.062   0.051   0.044   0.048   0.059   0.047   0.052   0.068   0.053   0.046   0.060
+
+Pacific E-P (24N-47N) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.081   0.081   0.092   0.058   0.080   0.084   0.081   0.094   0.070   0.067   0.080   0.125
+
+Pacific E-P (30S-24N) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.181   0.199   0.209   0.146   0.184   0.183   0.217   0.270   0.209   0.189   0.171   0.180
+
+Indian E-P (>8S) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.130   0.126   0.108   0.113   0.139   0.128   0.104   0.110   0.089   0.130   0.148   0.112
+
+Indian E-P (20S-8S) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.149   0.153   0.085   0.100   0.092   0.058   0.056   0.059   0.053   0.068   0.088   0.140
+
+Indian E-P (35S-20S) monthly standard deviations: 
+Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec
+0.062   0.085   0.072   0.064   0.068   0.044   0.050   0.046   0.044   0.047   0.059   0.047
